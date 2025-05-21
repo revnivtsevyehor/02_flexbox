@@ -20,5 +20,15 @@ body {
 	box-shadow:0px 0px 50px #33003370;
 }
 h2 {
-text-algin:center
+text-align:center;
+font-weight: bold;
+}
+
+.image_container {
+  text-align: center;
+}
+
+.image_container img {
+  width: 50px;
+  height: auto;
 }
